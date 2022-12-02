@@ -3,3 +3,4 @@ pandas==1.5.*
 matplotlib==3.6.*
 japanize-matplotlib==1.1.*
 seaborn==0.12.*
+plotly==5.11.*
