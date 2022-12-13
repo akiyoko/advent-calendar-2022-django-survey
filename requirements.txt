@@ -4,3 +4,5 @@ matplotlib==3.6.*
 japanize-matplotlib==1.1.*
 seaborn==0.12.*
 plotly==5.11.*
+PyGithub==1.57.*
+python-dotenv==0.21.*
